@@ -1,7 +1,3 @@
-Here’s an improved and professional version of your main `README.md` file:
-
----
-
 # 👋 Hi, I’m @KainnT
 
 ## About Me
