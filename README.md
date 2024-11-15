@@ -17,14 +17,6 @@ Here’s an improved and professional version of your main `README.md` file:
 - 📫 **Contact Me:**  
   Feel free to reach out via email at **sturstkaer@gmail.com** for collaboration opportunities or inquiries.
 
----
-
-## 📊 GitHub Stats (Optional)
-*(Add this if you’d like to show your GitHub activity stats)*
-
-```markdown
-![KainnT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KainnT&show_icons=true&theme=dark)
-```
 <!---
 KainnT/KainnT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
