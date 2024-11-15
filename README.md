@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KainnT
 - 👀 I’m interested in Data Science, Machine Learning, Software development and AI
-- 🌱 I’m currently learning Java a Data Engineering
+- 🌱 I’m currently learning Java and Data Engineering
 - 💞️ I’m looking to collaborate on any project or job related to what I’m interested in
 - 📫 Send an email to sturstkaer@gmail.com to reach me
 
